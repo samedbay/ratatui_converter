@@ -1,0 +1,9 @@
+[package]
+name = "gif_braille_tui"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ratatui = { version = "0.30.0-alpha.2" }
+crossterm = "0.28.1"
+image = "0.24.6"
